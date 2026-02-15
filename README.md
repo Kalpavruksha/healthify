@@ -214,6 +214,9 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 
 Co-authored-by: Pratham Kulkarni <pratham.kulkarn@gmail.com>
+Co-authored-by: Beshu Gowdaman <beshu4959gowdaman@gmail.com>
+Co-authored-by: Kalpavruksha G <kalpavruksha.g.dev@gmail.com>
+
 
 ## License
 This project is licensed under the MIT License.
