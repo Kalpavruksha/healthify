@@ -36,6 +36,8 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 | `chore:` | Maintenance tasks |
 | `refactor:` | Code restructuring |
 
+  Co-authored-by: Pratham <prathammk2003@gmail.com>
+  
 ## 🐛 Reporting Issues
 
 - Use the **Issues** tab on GitHub
