@@ -1,7 +1,7 @@
 import dotenv from 'dotenv';
 import path from 'path';
 import { fileURLToPath }  from 'url';
-import express from 'express';
+import express from 'express'; 
 import cors from 'cors';
 import { connectDB } from './lib/db.js';
 import { startAllSchedulers, manuallyCheckReminders } from './scheduler/index.js';
