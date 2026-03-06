@@ -1,6 +1,6 @@
 import dotenv from 'dotenv';
 import path from 'path';
-import { fileURLToPath } from 'url';
+import { fileURLToPath }  from 'url';
 import express from 'express';
 import cors from 'cors';
 import { connectDB } from './lib/db.js';
