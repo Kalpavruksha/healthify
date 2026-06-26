@@ -1,5 +1,5 @@
 # Contributing to Healthify 🏥
-
+ 
  Thank you for your interest in contributing to **Healthify** — a smart health management platform!
 
 ## 🚀 Getting Started
