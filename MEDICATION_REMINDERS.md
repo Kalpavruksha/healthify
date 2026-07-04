@@ -1,5 +1,5 @@
 # Medication Reminders Guide
- 
+  
 This guide explains how to use the medication reminders feature in the healthcare app.
 
 ## How to Send Medication Reminders
